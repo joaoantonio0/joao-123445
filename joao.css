@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/projects/404/1a2000191930853.Y3JvcCwxMDgwLDg0NCwwLDg4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 98h;
+color: blue (0, 191, 255, 0.995);
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius:  50%;
+    border: 5px solid  white;
+}
+.center{
+    text-align: center;
+}
+.instagram{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+ footer{
+text-align: center;
+justify-content: center
+
+ }
+ footer p{
+    margin-top: 2px;
+ }
+ footer a {
+    margin: 20px;
+    text-align: center;
+ }
+ footer p{
+    margin-top: 2px;
+ }
+ 
+ .container
+ {
+    padding:0px 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+ }
+ .Youtube{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+.twitter{
+    margin: 10px;
+    width: 9vh;
+    height: 9vh;
+    border: none;
+    border-radius: 9px;
+}
+p{
+    color: aliceblue;
+}
